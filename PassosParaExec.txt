@@ -1,0 +1,42 @@
+1. Introdução:
+
+   - Contextualização do problema: Explique a importância da identificação precisa de doenças de pele.
+   - Justificativa da pesquisa: Por que é relevante aplicar inteligência artificial nesse contexto?
+   - Objetivos da pesquisa: Declare claramente o que você pretende alcançar com o trabalho.
+
+2. Referencial Teórico:
+
+   - Conceitos básicos sobre doenças de pele: Descreva as principais doenças de pele que serão abordadas no seu estudo.
+   - Estado da arte em diagnóstico de doenças de pele: Revise os métodos tradicionais de diagnóstico e as limitações associadas.
+   - Inteligência Artificial aplicada à saúde: Explique como a IA tem sido utilizada em diagnósticos médicos, destacando estudos relevantes na área de dermatologia.
+   - Técnicas de Machine Learning e Deep Learning: Forneça uma visão geral dessas técnicas e como elas podem ser aplicadas à identificação de doenças de pele.
+
+3. Metodologia:
+
+   - Descrição do conjunto de dados: Explique quais bases de dados você utilizará para treinar e testar seu modelo.
+   - Pré-processamento de dados: Detalhe as etapas de preparação dos dados antes da aplicação dos algoritmos de IA.
+   - Escolha e justificativa dos algoritmos: Discuta quais algoritmos de IA serão utilizados e por que foram selecionados.
+   - Avaliação do modelo: Descreva como você irá avaliar a eficácia do seu modelo em identificar doenças de pele.
+
+4. Resultados:
+
+   - Apresente os resultados da aplicação dos algoritmos de IA ao conjunto de dados.
+   - Analise e interprete os resultados obtidos.
+
+5. Discussão:
+
+   - Interpretação dos resultados: Discuta as implicações dos resultados obtidos em relação ao diagnóstico de doenças de pele.
+   - Limitações do estudo: Identifique e discuta as limitações do seu trabalho.
+   - Possíveis aplicações práticas: Sugira como os resultados da sua pesquisa podem ser aplicados na prática médica.
+
+6. Conclusão:
+
+   - Recapitulação dos principais pontos: Resuma os principais achados do seu trabalho.
+   - Contribuições e perspectivas futuras: Destaque as contribuições do seu estudo e sugira possíveis direções para pesquisas futuras na área.
+
+7. Referências:
+
+   - Liste todas as fontes bibliográficas citadas ao longo do seu TCC, seguindo as normas da ABNT ou as diretrizes da sua instituição.
+
+
+Obs: Utilizar de outros trabalhos como Referencial Teórico para que possa linkar na parte da contextualização e apresentar a tematica de todo o projeto desenvolvido.

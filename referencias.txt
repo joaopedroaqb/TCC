@@ -1,0 +1,14 @@
+Referências:
+
+Esteva, A. et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542(7639), 115-118. 2017.
+Brinker, T. J. et al. Deep learning outperformed 136 of 157 dermatologists in a head-to-head dermoscopic melanoma image classification task. European Journal of Cancer, 103, 114-121. 2018.
+Tschandl, P. et al. Human-computer collaboration for skin cancer recognition. Nature Medicine, 25(8), 1215-1218. 2019.
+Goodfellow, I. et al. Deep Learning. \textit{MIT Press}, 2016.
+LeCun, Y. et al. Deep learning. \textit{Nature}, 521(7553), 436-444. 2015.
+Esteva, A. et al. Dermatologist-level classification of skin cancer with deep neural networks. \textit{Nature}, 542(7639), 115-118. 2017.
+Haenssle, H. A. et al. Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists. \textit{Annals of Oncology}, 29(8), 1836-1842. 2018.
+Nóbrega, M. M. et al. Diagnóstico das principais dermatoses comuns em clínica geral. \textit{Anais Brasileiros de Dermatologia}, 84(3), 257-270. 2009.
+Marghoob, A. A. et al. Dermoscopy: The Essentials. \textit{Elsevier}, 2017.
+- Goldsmith, L. A. et al. Fitzpatrick's Dermatology in General Medicine. McGraw Hill Professional, 8th edition, 2012.
+- Esteva, A. et al. Dermatologist-level classification of skin cancer with deep neural networks. \textit{Nature}, 542(7639), 115-118. 2017.
+- Rajpurkar, P. et al. CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. \textit{arXiv preprint arXiv:1711.05225}, 2017.

@@ -12,3 +12,7 @@ Marghoob, A. A. et al. Dermoscopy: The Essentials. \textit{Elsevier}, 2017.
 - Goldsmith, L. A. et al. Fitzpatrick's Dermatology in General Medicine. McGraw Hill Professional, 8th edition, 2012.
 - Esteva, A. et al. Dermatologist-level classification of skin cancer with deep neural networks. \textit{Nature}, 542(7639), 115-118. 2017.
 - Rajpurkar, P. et al. CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. \textit{arXiv preprint arXiv:1711.05225}, 2017.
+Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542(7639), 115-118. DOI: 10.1038/nature21056
+Haenssle, H. A., Fink, C., Schneiderbauer, R., Toberer, F., Buhl, T., Blum, A., ... & Hofmann-Wellenhof, R. (2018). Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists. Annals of oncology, 29(8), 1836-1842. DOI: 10.1093/annonc/mdy166
+Tschandl, P., Codella, N., Akay, B. N., Argenziano, G., Braun, R. P., Cabo, H., ... & Halpern, A. (2019). Comparison of the accuracy of human readers versus machine-learning algorithms for pigmented skin lesion classification: an open, web-based, international, diagnostic study. The Lancet Oncology, 20(7), 938-947. DOI: 10.1016/S1470-2045(19)30249-1
+Narla, A., Patel, R., & Jonmichael, H. (2020). DermBot: A Chatbot for Early Detection of Skin Cancer Using Deep Learning. arXiv preprint arXiv:2004.03801.
